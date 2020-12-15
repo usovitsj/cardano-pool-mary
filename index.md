@@ -1,5 +1,9 @@
-# cardano-pool-mary
-## Welcome to GitHub Pages
+## Welcome to cardano pool mary
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 You can use the [editor on GitHub](https://github.com/usovitsj/cardano-pool-mary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
